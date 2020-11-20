@@ -1,0 +1,36 @@
+/* class用.呼叫 id用#呼叫 文字檔直接打名稱*/
+/* 一行幾張圖片用圖片大小去決定 */
+#line3 img{
+    width: 30%;
+    margin: 1.66%;
+    float: left;
+}
+#line4 img{
+    width: 22%;
+    margin: 1.5%;
+    float: left;
+}
+#line5 img{
+    width: 16%;
+    margin: 1.66%;
+    float: left;
+}
+.clearfix{
+    clear: both;
+}
+h1 {
+    /* 由外到內 margin border padding content */
+    text-transform:uppercase;/* 文章大寫lowercase小寫 */
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;/* 字形 */
+    font-size: 20px;/* 字形大小 */
+    font-weight: bold;/* 粗體字 */
+    margin: 1.66%;/* 與其他元素的距離 */
+    border-bottom: 2px solid rgb(209, 184, 44);/* 元素最外層的邊界 邊框設定:solid實線 */
+    width: 25%;
+    padding-bottom: 15px; 
+    /* 元素內所有內容與元素自身的邊界間距*/
+}
+section{
+    margin-left: 20px;
+}

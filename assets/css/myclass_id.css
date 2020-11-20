@@ -1,0 +1,56 @@
+#container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  text-align: center;
+
+}
+
+table {
+  border: 2px solid !important; 
+  padding: 5px !important;
+  font-size: 14px !important;
+}
+
+td {
+  text-align: center;
+  width: 80px ;
+  height: 40px;
+  word-break: break-all;
+  border: 2px solid !important; 
+  border-color: white !important;
+}
+
+.name {
+  background-color: rgb(48, 47, 102);
+  color: white;
+  font-size: 18px;
+}
+
+.tablename {
+  background-color: rgb(95, 95, 180);
+  color: white;
+  font-size: 18px;
+}
+
+.weekday {
+  background-color: rgb(144, 202, 224);
+  font-size: 18px;
+}
+
+.number {
+  width: 18px;
+  background-color: rgb(219, 121, 51);
+}
+
+.time {
+  background-color: rgb(250, 218, 179);
+  width: 90px;
+}
+
+.content {
+  background-color: rgb(230, 228, 117);
+}
+
+
+

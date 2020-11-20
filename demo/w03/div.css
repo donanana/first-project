@@ -1,0 +1,58 @@
+body {
+    width: 90%;
+    background-color: blanchedalmond;
+    margin: 20px auto;
+  }
+  
+  #heading {
+    width: 100%;
+    height: 100px;
+    background-color: darkcyan;
+    text-align: center;
+  }
+  
+  #menu {
+    width: 20%;
+    height: 400px;
+    background-color: darkturquoise;
+    float: left;
+  }
+  
+  #section {
+    width: 80%;
+    height: 400px;
+    background-color: rgb(124, 160, 202);
+    float: right;
+  }
+  
+  .clearfix {
+    clear: both;
+  }
+  
+  #footer {
+    width: 100%;
+    height: 70px;
+    background-color: darkgray;
+  }
+  
+  #heading nav li {
+    list-style-type: none;
+    float: left;
+    margin: 5px;
+    font-size: 15px;
+  }
+  
+  #heading nav a {
+    background-color: darksalmon;
+    padding: 5px;
+  }
+  
+  #heading nav a:hover {
+    background-color: crimson;
+    padding: 5px;
+  }
+  
+  #heading nav ul {
+    padding: 0px;
+  }
+  

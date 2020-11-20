@@ -1,0 +1,95 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Div</title>
+    <style>
+    #heading{
+        width: 100%;
+        height: 100px;
+        background-color: darkcyan;
+        text-align: center;/* 置中 */
+    }
+    #menu{
+        width:20%;
+        height: 400px;
+        background-color: darkturquoise;
+        float: left;
+        }
+    #section{
+        width:80%;
+        height: 400px;
+        background-color: rgb(152,218,230);
+        float: right;
+        }
+    #footer{
+        width:100%;
+        height: 70px;
+        background-color: darkgray;
+        }
+    .clearfix{
+        clear: both;
+        }
+    #heading nav li {
+        float:left;
+        list-style-type: none;
+        margin: 5px;
+        float: 5px;
+        }
+    #heading nav a {
+        background-color: darksalmon;
+        padding: 5px;
+         }
+    /* 滑鼠浮動特效 */
+    #heading nav a:hover{
+        background-color: brown;
+         }
+    #heading ul{
+        padding: 0px;
+         }
+
+    </style>
+     <script>
+      // javascript
+      function changeColor(index) {
+        const p = document.getElementById("section");
+        console.log(p);
+        //if (index === 1) p.style.backgroundColor = "yellow";
+        //if (index === 1) p.style.backgroundColor = "azure";
+        //if (index === 1) p.style.backgroundColor = "cornflowerblue";
+        switch (index) {
+          case 1:
+            p.style.backgroundColor = "yellow";
+            break;
+          case 2:
+            p.style.backgroundColor = "azure";
+            break;
+          case 3:
+            p.style.backgroundColor = "cornflowerblue";
+            break;
+        }
+      }
+    </script>
+  <body>
+    <div id="heading">
+      <p>Heading</p>
+      <nav>
+        <ul>
+          <!-- onclick滑鼠點擊觸發-->
+          <li onclick="changeColor(1)"><a href="#"> List1</a></li>
+          <li onclick="changeColor(2)"><a href="#"> List2</a></li>
+          <li onclick="changeColor(3)"><a href="#"> List3</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div id="menu">Menu</div>
+    <div id="section">Section</div>
+    <div class="clearfix"></div>
+    <div id="footer">Footer</div>
+  </body>
+</html>
