@@ -36,7 +36,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w02/blog.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w02/blog.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = 'aliceblue';
@@ -46,7 +46,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w03/div.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w03/div.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = 'aliceblue';
@@ -56,7 +56,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w04/TKU60.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w04/TKU60.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = 'aliceblue';
@@ -66,7 +66,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w04/nav.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w04/nav.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = ' aliceblue';
@@ -76,7 +76,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w05/index.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w05/index.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = '  aliceblue';
@@ -86,7 +86,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w02/ta.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w02/ta.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = '  aliceblue';
@@ -96,7 +96,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w03/ta.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w03/ta.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = '  aliceblue';
@@ -106,7 +106,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w04/ta.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w04/ta.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = '  aliceblue';
@@ -116,7 +116,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w06/eiser-master_e-commerce/index.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w06/eiser-master_e-commerce/index.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = '  aliceblue';
@@ -126,7 +126,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">X</span>
-      <iframe width=100% height=650px src="./demo/w08/index 1.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w08/index 1.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = '  aliceblue';
@@ -136,7 +136,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w06/ta.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w06/ta.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = '  aliceblue';
@@ -146,7 +146,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w07/ta.html" "></iframe>
+      <iframe width=100% height=650px src="./demo/w07/ta.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = '  aliceblue';
@@ -156,7 +156,7 @@ function demo(index) {
       p.innerHTML = `
         <div class="demo">
         <span class="close">✘</span>
-        <iframe width=100% height=650px src="./demo/w08/ta.html" "></iframe>
+        <iframe width=100% height=650px src="./demo/w08/ta.html"></iframe>
         </div>
         `;
       p.style.backgroundColor = '  aliceblue';
@@ -166,7 +166,7 @@ function demo(index) {
       p.innerHTML = `
         <div class="demo">
         <span class="close">✘</span>
-        <iframe width=100% height=650px src="./demo/w11/tictactoe_id.html" "></iframe>
+        <iframe width=100% height=650px src="./demo/w11/tictactoe_id.html"></iframe>
         </div>
          `;
       p.style.backgroundColor = '  aliceblue';
@@ -176,7 +176,7 @@ function demo(index) {
       p.innerHTML = `
         <div class="demo">
         <span class="close">✘</span>
-        <iframe width=100% height=650px src="./demo/w12/looplab.html" "></iframe>
+        <iframe width=100% height=650px src="./demo/w12/looplab.html"></iframe>
         </div>
         `;
       p.style.backgroundColor = '  aliceblue';
@@ -186,7 +186,7 @@ function demo(index) {
       p.innerHTML = `
         <div class="demo">
         <span class="close">✘</span>
-        <iframe width=100% height=650px src="./demo/w14/index.html" "></iframe>
+        <iframe width=100% height=650px src="./demo/w14/index.html"></iframe>
         </div>
         `;
       p.style.backgroundColor = '  aliceblue';
@@ -197,7 +197,7 @@ function demo(index) {
         <div class="demo">
        <span class="close">✘</span>
 
-        <iframe width=100% height=650px src="./demo/w11/ta.html" "></iframe>
+        <iframe width=100% height=650px src="./demo/w11/ta.html"></iframe>
         </div>
         `;
       p.style.backgroundColor = '  aliceblue';
@@ -207,7 +207,7 @@ function demo(index) {
       p.innerHTML = `
         <div class="demo">
         <span class="close">✘</span>
-        <iframe width=100% height=650px src="./demo/w13/ta.html" "></iframe>
+        <iframe width=100% height=650px src="./demo/w13/ta.html"></iframe>
         </div>
         `;
       p.style.backgroundColor = '  aliceblue';
@@ -217,7 +217,7 @@ function demo(index) {
       p.innerHTML = `
         <div class="demo">
         <span class="close">✘</span>
-        <iframe width=100% height=650px src="./demo/w14/ta.html" "></iframe>
+        <iframe width=100% height=650px src="./demo/w14/ta.html"></iframe>
         </div>
         `;
       p.style.backgroundColor = '  aliceblue';
@@ -227,7 +227,7 @@ function demo(index) {
       p.innerHTML = `
         <div class="demo">
         <span class="close">✘</span>
-        <iframe width=100% height=650px src="./demo/w15/ta.html" "></iframe>
+        <iframe width=100% height=650px src="./demo/w15/ta.html"></iframe>
         </div>
       `;
       p.style.backgroundColor = '  aliceblue';
