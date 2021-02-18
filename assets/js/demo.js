@@ -26,7 +26,7 @@ function demo(index) {
       p.innerHTML = `
       <div class="demo">
       <span class="close">✘</span>
-      <iframe width=100% height=650px src="./demo/w02/imageGallery.html"></iframe>
+      <iframe width=100% height=650px src="./demo/w02/imagegallery.html"></iframe>
       </div>
       `;
       p.style.backgroundColor = 'aliceblue';
